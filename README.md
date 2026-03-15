@@ -40,7 +40,7 @@ QR Send leverages a purely visual data transmission method, operating completely
 
 ## Demo Video
 
-...
+[demo.mp4](https://github.com/user-attachments/assets/96c6a24a-c080-483d-abd8-e4f6a7eb9df4)
 
 ## Limitations
 
