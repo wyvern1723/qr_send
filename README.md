@@ -32,10 +32,10 @@ QR Send leverages a purely visual data transmission method, operating completely
 
 ## Screenshots
 
-<div align="center">
-  <img src="docs/screenshots/send_screen.webp" alt="Send Screen"/>
-  <img src="docs/screenshots/receive_screen.webp" alt="Receive Screen"/>
-  <img src="docs/screenshots/transfer_screen.webp" alt="Transfer Screen"/>
+<div align='center'>
+  <img src="docs/screenshots/send_screen.webp" alt="Send Screen" width="400px" />
+  <img src="docs/screenshots/transfer_screen.webp" alt="Transfer Screen" width="80%" />
+  <img src="docs/screenshots/receive_screen.webp" alt="Receive Screen" width="300px" />
 </div>
 
 ## Demo Video
