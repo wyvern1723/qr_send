@@ -4,7 +4,7 @@
 
 QR Send is an experimental Flutter application that enables file transfer through a sequence of dynamically generated QR codes. The sender splits any file into chunks and displays them as a continuous stream of QR codes, while the receiver scans these codes with their camera to reconstruct and save the original file locally.
 
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-3.41.10-027DFD?logo=flutter" alt="Flutter Version 3.41.10" /></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-3.38.10-027DFD?logo=flutter" alt="Flutter Version 3.38.10" /></a>
 
 > [!WARNING]
 > ⚠️ This is an experimental project created through vibe coding
